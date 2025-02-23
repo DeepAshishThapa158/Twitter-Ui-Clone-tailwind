@@ -1,0 +1,11 @@
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    ::-webkit-scrollbar-track {
+        background: none;
+    }
+    ::-webkit-scrollbar-thumb {
+        background: none;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        background: none;}
