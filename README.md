@@ -12,7 +12,7 @@ This is a fully responsive frontend clone of Twitter's user interface, built usi
 <h1>Technology Used</h1>
 <ul>HTML5: For the structure of the page.</ul>
 </ul>Tailwind CSS: Utility-first CSS framework used for styling and responsive design.</ul>
-</ul>FontAwesome: For UI and social media icons.</ul>
+<ul>FontAwesome: For UI and social media icons.</ul>
 
 <h1>Getting Started</h1>
 <li>Clone the repository:</li>
