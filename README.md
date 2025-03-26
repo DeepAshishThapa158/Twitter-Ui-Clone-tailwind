@@ -16,7 +16,7 @@ This is a fully responsive frontend clone of Twitter's user interface, built usi
 
 <h1>Getting Started</h1>
 <li>Clone the repository:</li>
-<ul>https://github.com/DeepAshishThapa/TwitterClone.git</ul>
+<ul>https://github.com/DeepAshishThapa158/Twitter-Ui-Clone-tailwind.git</ul>
 <li>Navigate into the project folder</li>
 <ul>cd twitter</ul>
 
